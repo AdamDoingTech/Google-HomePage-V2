@@ -9,12 +9,10 @@
 }
 
 a {
-	text-decoration: none;
-    
+	text-decoration: none;  
 }
 
 a:hover {
-	/*text-decoration: underline;*/
 	border-bottom: 1.5px solid #0c0;
 	cursor: pointer;
 }
@@ -36,7 +34,9 @@ a:hover {
 	border-radius: 50%;
 }
 
-
+.TopImage {
+	border: 1.5px solid transparent;
+}
 
 #MidSection { 
 margin-top: 300px;
@@ -87,8 +87,6 @@ margin-top: 300px;
   0 30.1px 24.1px rgba(0, 0, 0, 0.033),
   0 100px 80px rgba(0, 0, 0, 0.05)
 ;
-
-  
  }
 
  #Footer {
