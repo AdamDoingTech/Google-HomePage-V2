@@ -36,4 +36,10 @@ margin-top: 300px;
 
 #SearchBarSection {
 	text-align: center;
+	margin-top: 20px;
 }
+
+#SearchBar { 
+	padding-top: 20px;
+	padding-bottom: 20px;
+ }
