@@ -3,7 +3,7 @@
 -- Hello, this is Adam from Atom Lab X 👨🏾‍💻
 
 Project Overview: 
-* The <a href="https://atomlabx.github.io/Google-HomePage-V2/">Live Preview</a> For the Project.
+* The <a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank">Live Preview</a> For the Project.
 * This is a learning project I'm working on while doing the Odin Project.
 * I want to showcase my work while working on this project for myself. 
 * This is a puplic project.
@@ -26,4 +26,4 @@ Contribution Guidelines:
 C Ya on the other side! 👋🏾
 
 Side note: 
-You can find me on Youtube @ Atom Lab X
+You can find me on Youtube<a href="https://www.youtube.com/channel/UC3a4IUMJzJZCuxm8iOcTrJA" target="_blank"> @ Atom Lab X </a>
