@@ -42,4 +42,7 @@ margin-top: 300px;
 #SearchBar { 
 	padding-top: 20px;
 	padding-bottom: 20px;
+	outline: 0px;
+	width: 600px;
+	border-radius: 15px;
  }
