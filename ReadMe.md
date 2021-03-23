@@ -15,6 +15,7 @@ Why not update the first version then?
 
 What did I learn So Far? 
 * You can use (text-align) on images as well!
+* You can use (text-align) on "div's" as well!
 
 Contribution Guidelines:
 * Allowed to Forked, Edited.
