@@ -47,3 +47,15 @@ margin-top: 300px;
 	border-radius: 15px;
 	border: 2px solid #D3D3D3; 
  }
+
+#Buttons { 
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	padding-right: 25px; 
+ }
+
+ .SingleButton {
+ 	margin-right: 10px; 
+ 	margin-left: 10px;
+ }
