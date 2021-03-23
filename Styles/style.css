@@ -9,6 +9,15 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
 #NAV {
 	display: flex;
 	justify-content: flex-end;
@@ -74,7 +83,7 @@ margin-top: 300px;
     height:[footer-height] 
  }
 
- #Footer-Stuff {
+ #Footer-Center {
  	text-align: center;
  	margin-bottom: 20px;
  }
@@ -84,4 +93,5 @@ height: 30px;
 width: 30px;
 margin-bottom: -5px;
  }
+
 
