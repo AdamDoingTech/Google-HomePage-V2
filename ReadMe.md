@@ -1,9 +1,9 @@
 
 
--- Hello, this is Adam from Atom Lab X 👨🏾‍💻 <br>
-<a href="https://atomlabx.github.io/Google-HomePage-V2/">Live Preview</a>
+-- Hello, this is Adam from Atom Lab X 👨🏾‍💻
 
 Project Overview: 
+* The <a href="https://atomlabx.github.io/Google-HomePage-V2/">Live Preview</a> For the Project.
 * This is a learning project I'm working on while doing the Odin Project.
 * I want to showcase my work while working on this project for myself. 
 * This is a puplic project.
