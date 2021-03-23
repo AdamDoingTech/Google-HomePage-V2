@@ -1,0 +1,24 @@
+
+
+-- Hello, this is Adam from Atom Lab X 👨🏾‍💻
+
+Project Overview: 
+* This is a learning project I'm working on while doing the Odin Project.
+* I want to showcase my work while working on this project for myself. 
+* This is a puplic project.
+
+Why I'm creating the project again?
+* I think I can do a better job than the first version, and I want to take my time making the second version and won't rush through it, like how I did with the first version. 
+
+Why not update the first version then?
+* Because I want to compare between the two and learn from the expirince overall. 
+
+Contribution Guidelines:
+* Allowed to Forked, Edited.
+* Feedback Is Welcome.
+
+
+C Ya on the other side! 👋🏾
+
+Side note: 
+You can find me on Youtube @ Atom Lab X
