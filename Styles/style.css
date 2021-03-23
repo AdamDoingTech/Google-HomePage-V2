@@ -58,4 +58,9 @@ margin-top: 300px;
  .SingleButton {
  	margin-right: 10px; 
  	margin-left: 10px;
+ 	padding: 10px 5px;
+ 	cursor: pointer;
+ 	background: #F8F9FA;
+ 	border-radius: 10px;
+ 	padding: 10px;  
  }
