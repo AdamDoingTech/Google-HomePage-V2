@@ -73,3 +73,15 @@ margin-top: 300px;
     left: 0 ; right: 0; bottom: 0; 
     height:[footer-height] 
  }
+
+ #Footer-Stuff {
+ 	text-align: center;
+ 	margin-bottom: 20px;
+ }
+
+ #ThumbsUpGuy {
+height: 30px;
+width: 30px;
+margin-bottom: -5px;
+ }
+
