@@ -64,3 +64,12 @@ margin-top: 300px;
  	border-radius: 10px;
  	padding: 10px;  
  }
+
+ #footer {
+ 	/* Get the idea from CSS Tricks from the first comment 
+ 	Link: https://css-tricks.com/couple-takes-sticky-footer/
+ 	*/
+ 	position: absolute;	 
+    left: 0 ; right: 0; bottom: 0; 
+    height:[footer-height] 
+ }
