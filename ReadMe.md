@@ -13,6 +13,9 @@ Why I'm creating the project again?
 Why not update the first version then?
 * Because I want to compare between the two and learn from the expirince overall. 
 
+What did I learn So Far? 
+* You can use (text-align) on images as well!
+
 Contribution Guidelines:
 * Allowed to Forked, Edited.
 * Feedback Is Welcome.
