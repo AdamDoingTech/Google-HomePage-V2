@@ -10,10 +10,12 @@
 
 a {
 	text-decoration: none;
+    
 }
 
 a:hover {
-	text-decoration: underline;
+	/*text-decoration: underline;*/
+	border-bottom: 1.5px solid #0c0;
 	cursor: pointer;
 }
 
@@ -33,6 +35,8 @@ a:hover {
 	background-color: orange;
 	border-radius: 50%;
 }
+
+
 
 #MidSection { 
 margin-top: 300px;
