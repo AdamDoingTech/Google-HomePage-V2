@@ -4,6 +4,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 * {
+	margin: 0;
 	/*background-color: black;*/
 	font-family: 'Roboto', sans-serif;
 }
+
+#NAV {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 15px; 
+}
+
+#NAV a {
+	margin-right: 20px;
+}
+
+#NAV .TopImage {
+	height: 20px;
+	width: 20px;
+	background-color: orange;
+	border-radius: 50%;
+}
+
+#MidSection { 
+margin-top: 300px;
+ }
+
+ #logo { 
+ 	text-align: center;
+  }
