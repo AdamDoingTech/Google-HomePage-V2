@@ -17,10 +17,10 @@ Why not update the first version then?
 What Did I Learn So Far? 
 * You can use (text-align) on images as well!
 * You can use (text-align) on "div's" as well!
-* I can do better if I put my mind to it!
+* I can do better job, if I put my mind into it!
 
 Contribution Guidelines:
-* Allowed to Forked, Edited.
+* Allowed to Be Forked, Edited, Etc...
 * Feedback Is Welcome.
 
 
