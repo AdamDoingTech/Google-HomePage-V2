@@ -12,7 +12,7 @@ Why I'm creating the project once more?
 * Because I can do a better job, if I take my time with the project, and make it look better than the first version, and that was the case at the very end of the project.  
 
 Why not update the first version then?
-* Because I want to compare between the two and learn from the expirince overall. 
+* Because I want to compare between the two and learn from the experience overall. 
 
 What Did I Learn So Far? 
 * You can use (text-align) on images as well!
