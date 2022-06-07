@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AtomLabX/ChatBot_V1">
-    <img src="images/Google_Clone.png" alt="Demo" width="800" height="400">
+    <img src="images/Google_Clone.png" alt="Google Home Page Clone">
   </a>
 
   <h3 align="center">GOOGLE HOME PAGE CLONE</h3>
@@ -14,14 +14,15 @@
     
 
 ## LIVE DEMO
-<a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank">Click Here.</a>
+<a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank">Click Here</a>
 
 <br/>
 
 <!-- BUILD USING -->
 ## BUILD WITH
 * JavaScript.
-* HTML/CSS.
+* HTML.
+* CSS.
  
 <!-- CONTRIBUTING GUIDELINES -->
 
