@@ -1,30 +1,35 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/AtomLabX/ChatBot_V1">
+    <img src="images/Google_Clone.png" alt="Demo" width="800" height="400">
+  </a>
 
+  <h3 align="center">GOOGLE HOME PAGE CLONE</h3>
 
--- Hello, this is Adam from Atom Lab X 👨🏾‍💻
+  <p align="center">
+    <samp>A CLONE OF THE FRONT PAGE FOR GOOGLE'S SEARCH ENGINE.</samp>
+    <br>
+    </p>
+    
 
-Project Overview: 
-* The <a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank">Live Preview</a> For the Project.
-* This is a learning project I'm working on while doing The Odin Project.
-* I want to showcase my work while working on this project for myself. 
-* This is a puplic project.
+## LIVE DEMO
+<a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank">Click Here.</a>
 
-Why I'm creating the project once more?
-* Because I can do a better job, if I take my time with the project, and make it look better than the first version, and that was the case at the very end of the project.  
+<br/>
 
-Why not update the first version then?
-* Because I want to compare between the two and learn from the experience overall. 
+<!-- BUILD USING -->
+## BUILD WITH
+* JavaScript.
+* HTML/CSS.
+ 
+<!-- CONTRIBUTING GUIDELINES -->
 
-What Did I Learn So Far? 
-* You can use (text-align) on images as well!
-* You can use (text-align) on "div's" as well!
-* I can do better job, if I put my mind into it!
+<!-- LICENSE -->
+## Copyright
 
-Contribution Guidelines:
-* Allowed to Be Forked, Edited, Etc...
-* Feedback Is Welcome.
+Copyright © 2021 [Adam - ATOM LAB X](https://AtomLabX.Dev)
 
+## License
 
-C Ya on the other side! 👋🏾
-
-Side note:<br>
-You can find me on Youtube <a href="https://www.youtube.com/channel/UC3a4IUMJzJZCuxm8iOcTrJA">@Atom Lab X</a> or Twitter <a href="https://twitter.com/AtomLabX">@AtomLabX</a><br>Furthermore; here is my website <a href="https://AtomLabX.Dev">Website/Portfolio</a>.
+[MIT](https://github.com/AtomLabX/Google-HomePage-V2/blob/main/LICENSE)
