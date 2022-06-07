@@ -19,7 +19,7 @@
 <br/>
 
 <!-- BUILD USING -->
-## BUILD WITH
+## BUILT WITH
 * JavaScript.
 * HTML.
 * CSS.
