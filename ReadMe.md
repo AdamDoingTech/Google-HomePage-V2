@@ -14,7 +14,7 @@
     
 
 ## LIVE DEMO
-<a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank"><h2 Click Here</3></a>
+<a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank"> Click Here</a>
 
 <br/>
 
@@ -25,7 +25,6 @@
 * CSS.
  
 <!-- CONTRIBUTING GUIDELINES -->
-
 <!-- LICENSE -->
 ## Copyright
 
