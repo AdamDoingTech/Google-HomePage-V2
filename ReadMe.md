@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AtomLabX/ChatBot_V1">
+  <a href="https://github.com/AtomLabX/Google-HomePage-V2">
     <img src="images/Google_Clone.png" alt="Google Home Page Clone">
   </a>
 
