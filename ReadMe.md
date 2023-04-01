@@ -17,7 +17,7 @@
     
 
 ## LIVE DEMO
-<a href="https://atomlabx.github.io/Google-HomePage-V2/" target="_blank">CLICK HERE</a>
+<a href="https://adamdoingtech.github.io/Google-HomePage-V2/" target="_blank">CLICK HERE</a>
 
 <br/>
 
