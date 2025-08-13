@@ -31,7 +31,7 @@
 <!-- LICENSE -->
 ## Copyright
 
-Copyright © 2021 [Adam - ATOM LAB X](https://AtomLabX.Dev)
+Copyright © 2021 [Adam](https://AdamDoing.Tech)
 
 ## License
 
