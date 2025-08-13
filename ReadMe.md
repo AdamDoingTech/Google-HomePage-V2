@@ -17,7 +17,7 @@
     
 
 ## LIVE DEMO
-<a href="https://adamdoingtech.github.io/Google-HomePage-V2/" target="_blank">CLICK HERE</a>
+<a href="http://www.adamdoing.tech/Google_HomePage/" target="_blank">CLICK HERE</a>
 
 <br/>
 
